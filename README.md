@@ -33,7 +33,3 @@ Each time a commit is pushed to the `main` branch, GitHub Actions will automatic
 ```
 https://put.address.here.com
 ```
-
-## License
-
-This project is licensed under the [Apache License 2.0](LICENSE).

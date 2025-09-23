@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   srcDir: "./src",
   outDir: "./dist",
-  // base: "/openscd-org-website/", // Uncomment this line if deploying to your own personal GitHub Page
+  base: "/alternate-destiny/", // Uncomment this line if deploying to your own personal GitHub Page
   title: "A GENESYS Sci-Fi Campaign Setting",
   description:
     "There's always room for hope. It's the crack that lets the Light in.",
