@@ -1,0 +1,28 @@
+{
+  "name": "alternate-destiny",
+  "version": "0.0.1",
+  "description": "The Gospel of Alternate Destiny is a collaborative worldbuilding project and shared universe centered around a post-apocalyptic setting where humanity struggles to survive against monstrous entities known as the Corruption. The project invites writers, artists, and creators to contribute their own stories, characters, and lore to the expanding universe.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OMICRONEnergyOSS/openscd-org-website.git"
+  },
+  "keywords": [
+    "Games"
+  ],
+  "author": "Not me",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/stee-re/alternate-destiny/index.html",
+  "scripts": {
+    "start": "vitepress dev",
+    "bundle": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "husky": "^9.1.7",
+    "rimraf": "^6.0.1",
+    "vitepress": "^1.6.4",
+    "gh-pages": "^6.3.0"
+  }
+}
